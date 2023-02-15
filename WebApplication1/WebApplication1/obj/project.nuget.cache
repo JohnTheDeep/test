@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vrYaziVc/SCILGXEkpklABE9J5Gsuqk8Ifgs5/OjfitgaX311TncI6dOF4R0Vkw7mILQV5ckO0q5FeFedmWmQQ==",
+  "success": true,
+  "projectFilePath": "F:\\FencesRepository\\fencesservice\\src\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pussykilla\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\pussykilla\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\pussykilla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\pussykilla\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
